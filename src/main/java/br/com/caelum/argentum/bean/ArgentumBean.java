@@ -32,7 +32,7 @@ public class ArgentumBean implements Serializable {
 	private String nomeMedia;
 	private String nomeIndicadorBase;
 
-	private Date filtroDataDe;
+	private Date filtroDataDe
 	private Date filtroDataAte;
 
 	public ArgentumBean() {
